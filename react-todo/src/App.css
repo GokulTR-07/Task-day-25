@@ -1,0 +1,18 @@
+.card {
+  background-color: rgb(130, 225, 150);
+}
+
+input {
+  border: 1.5px solid lightgreen;
+  border-radius: 5px;
+}
+
+.todo-completion {
+  border: 1.5px solid lightgreen;
+  border-radius: 5px;
+  padding: 2px 0px;
+}
+
+.add-todo {
+  border-radius: 7px;
+}
